@@ -1,0 +1,9 @@
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\bin\Debug\1612180_1612677.exe.config
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\bin\Debug\1612180_1612677.exe
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\bin\Debug\1612180_1612677.pdb
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\obj\Debug\1612180_1612677.csprojResolveAssemblyReference.cache
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\obj\Debug\_1612180_1612677.FormMain.resources
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\obj\Debug\_1612180_1612677.Properties.Resources.resources
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\obj\Debug\1612180_1612677.csproj.GenerateResource.Cache
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\obj\Debug\1612180_1612677.exe
+E:\HK5\ComputerGraphic\Project2\Paint2D\Programs\1612180_1612677\1612180_1612677\obj\Debug\1612180_1612677.pdb
